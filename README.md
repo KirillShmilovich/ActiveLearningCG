@@ -6,5 +6,13 @@ The [VAE](VAE) directory details the procedure for generating the VAE used for p
 
 [VAE notebook](VAE/VAE.ipynb)
 
-<img src="VAE/VAE.pdf" width="350" title="hover text">
+![Image](VAE/VAE.png)
 
+The [ActiveLearning](ActiveLearning) directory contains details the steps involved for a single active learning iteration.
+
+[GPR model selection notebook](ActiveLearning/step_1-GPR/Model_Selection_GPR.ipynb)
+
+[Selecting candidates with AL](ActiveLearning/step_2-aquisition/Acquisition_sampling.ipynb)
+
+
+![Image](ActiveLearning/step_2-aquisition/EI.png)
