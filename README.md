@@ -6,4 +6,5 @@ The [VAE](VAE) directory details the procedure for generating the VAE used for p
 
 [VAE notebook](VAE/VAE.ipynb)
 
-![Image](VAE/VAE.pdf?raw=true)
+<img src=VAE/VAE.pdf width="350" title="hover text">
+
