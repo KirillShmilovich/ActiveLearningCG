@@ -1,5 +1,5 @@
 # Discovery of Self-Assembling pi-Conjugated Peptides by Active Learning-Directed Coarse-Grained Molecular Simulation
-Code and notebooks to accompany "Discovery of Self-Assembling pi-Conjugated Peptides by Active Learning-Directed Coarse-Grained Molecular Simulation" (DOI: XXX)
+Code and notebooks to accompany "Discovery of Self-Assembling pi-Conjugated Peptides by Active Learning-Directed Coarse-Grained Molecular Simulation" (DOI: https://doi.org/10.1021/acs.jpcb.0c00708)
 
 ## Contents
 
